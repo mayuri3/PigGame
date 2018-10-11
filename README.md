@@ -7,5 +7,7 @@ At any time during a player’s turn, the player is faced with two decisions:
 • If the player rolls a 1, then the player scores nothing and it becomes the opponent’s
 turn.
 • If the player rolls 2 through 6, then he or she can either:
-– ROLL AGAIN or
-– HOLD. At this point, the sum of 
+-- ROLL AGAIN or
+-- HOLD. At this point, the sum of all rolls is added to the player’s score, and it
+becomes the other player’s turn.
+
